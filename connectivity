@@ -1,1 +1,5 @@
-connectivity : Positive
+connectivity : Negative
+
+// Settings:
+$ connectivity : Negative
+$ connectivity : Positive
